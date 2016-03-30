@@ -1,1 +1,2 @@
-Tetris game: https://en.wikipedia.org/wiki/Tetris
+Tetris game:  https://en.wikipedia.org/wiki/Tetris
+Invented by Alexey Pajitnov
